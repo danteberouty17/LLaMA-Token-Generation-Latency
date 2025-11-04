@@ -119,4 +119,4 @@ for key in homogeneous_keys:
 
 ## Example Output
 
-![Batch Performance Example](images/sample_output.png)
+![Batch Performance Example](images/example_output.png)
