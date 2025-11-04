@@ -117,6 +117,4 @@ for key in homogeneous_keys:
 5) Run all notebook cells sequentially.
 6) After completion, results are stored in results/.
 
-## Example Output
 
-![Batch Performance Example](images/sample_output.png)
