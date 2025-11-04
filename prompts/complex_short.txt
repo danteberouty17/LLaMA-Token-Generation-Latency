@@ -1,0 +1,128 @@
+What is the Pythagorean theorem?
+Define Newton’s second law of motion.
+What is the chemical formula for table salt?
+Explain what an algorithm is in computer science.
+What does DNA stand for?
+Define a prime number.
+What is the significance of the Higgs boson?
+Name one programming language that is statically typed.
+What is the difference between speed and velocity?
+Define a black hole in one sentence.
+Define Ohm’s law.
+What is the main function of ribosomes in a cell?
+Explain the concept of entropy in physics.
+Name one example of a non-Euclidean geometry.
+Define acceleration in physics.
+What is the difference between mitosis and meiosis?
+Explain the role of mitochondria in cells.
+Define a chemical catalyst.
+What is the significance of the speed of light?
+Define an isomer in chemistry.
+Explain what a function is in mathematics.
+What is the difference between an ionic and covalent bond?
+Define gravitational potential energy.
+What is a quantum state?
+Name one programming language that is dynamically typed.
+Explain what a vector is in physics.
+Define a logarithm in mathematics.
+What is a binary tree in computer science?
+Explain the law of conservation of energy.
+Define kinetic energy.
+What is a palindrome in computer science or linguistics?
+Explain the principle of superposition in physics.
+Define a convex lens.
+What is the difference between speed and momentum?
+Define pH in chemistry.
+What is the main purpose of chlorophyll in plants?
+Explain the concept of recursion in programming.
+What is a chemical reaction equilibrium?
+Define Newton’s third law of motion.
+What is an eigenvalue in linear algebra?
+Explain the term half-life in physics or chemistry.
+Define a differential equation.
+What is the role of enzymes in biological reactions?
+Explain the principle of relativity.
+Define a prime factor.
+What is a heuristic in computer science?
+Explain the Doppler effect.
+Define an algorithm’s time complexity.
+What is the difference between mass and weight?
+Define a convex polygon.
+Explain the difference between AC and DC electricity.
+What is the role of RNA in cells?
+Define Ohm’s resistance.
+What is a capacitor used for in circuits?
+Explain the difference between speed and acceleration.
+Define a scalar quantity.
+What is the function of the nucleus in a cell?
+Explain the concept of probability in statistics.
+Define a chemical bond.
+What is an atom?
+Define a software bug.
+Explain the difference between analog and digital signals.
+What is the main principle of Archimedes’ law?
+Define a thermodynamic system.
+Define the term "vector space" in mathematics.
+What is the Schrödinger equation used for?
+Explain what a prime number theorem is.
+Define a harmonic oscillator in physics.
+What is the function of the Golgi apparatus in a cell?
+Explain what a recursive function does in programming.
+Define enthalpy in chemistry.
+What is the difference between a stack and a queue in computer science?
+Explain the concept of eigenvectors.
+Define Pascal’s law in fluid mechanics.
+What is the main function of ribonucleic acid (RNA)?
+Define a Boolean variable in programming.
+Explain the significance of Planck’s constant.
+Define a chemical compound versus a mixture.
+What is the principle behind Faraday’s law of induction?
+Explain the difference between conductors and insulators.
+Define standard deviation in statistics.
+What is a Markov chain?
+Explain the difference between an integer and a floating-point number.
+Define a logarithmic function.
+What is the main role of lysosomes in a cell?
+Explain the concept of angular momentum.
+Define a hypothesis in scientific research.
+What is a tensor in mathematics or physics?
+Explain the difference between a microprocessor and a microcontroller.
+Define specific heat capacity.
+What is the principle of superposition in mechanics?
+Explain the difference between classical and quantum mechanics.
+Define the term "isotope."
+What is the significance of Avogadro’s number?
+Explain what a linear regression model is.
+Define Bernoulli’s principle.
+What is a recursive algorithm?
+Explain the difference between conduction, convection, and radiation.
+Define the term "macromolecule" in biology.
+What is the Heisenberg uncertainty principle?
+Explain what a binary search tree is.
+Define a periodic function in mathematics.
+What is the difference between passive and active transport in cells?
+Explain what a capacitor does in an electrical circuit.
+Define an acyclic graph in computer science.
+What is the function of the endoplasmic reticulum?
+Explain the difference between fission and fusion reactions.
+Define a continuous function.
+What is a Pareto principle or 80/20 rule?
+Explain the difference between dependent and independent variables.
+Define a power series in mathematics.
+What is the main principle of Newton’s law of universal gravitation?
+Explain the difference between homogeneous and heterogeneous mixtures.
+Define a limit in calculus.
+What is the role of ATP in cellular respiration?
+Explain what a hash function is in computer science.
+Define the term "enthalpy change."
+What is the difference between a vector and a scalar in physics?
+Explain the principle of conservation of momentum.
+Define an integer factorization problem in mathematics.
+What is the difference between a synchronous and asynchronous process in computing?
+Explain the main function of the mitochondria.
+Define a commutative property in mathematics.
+What is the function of the cytoskeleton in a cell?
+Explain what a quantum superposition is.
+Define Gibbs free energy.
+What is the difference between a compiler and an interpreter?
+Explain the concept of a differential operator in mathematics.

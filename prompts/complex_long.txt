@@ -1,0 +1,128 @@
+Explain how general relativity describes gravity and how it differs from Newtonian gravity.
+Describe the process of protein synthesis in a cell in detail.
+Explain the causes and effects of hyperinflation in historical economies.
+Describe the steps involved in a chemical reaction balancing process.
+Explain how machine learning models are trained and validated.
+Describe the process of nuclear fusion in the Sun.
+Explain the differences between classical and quantum mechanics.
+Describe the steps of natural selection and evolution in a population.
+Explain how encryption and decryption work in modern computer security.
+Describe the process of photosynthesis including light-dependent and light-independent reactions.
+Explain the causes and consequences of the French Revolution.
+Describe the steps and significance of the scientific method.
+Explain how the circulatory system transports nutrients and oxygen throughout the body.
+Describe the process of climate change and its impact on ecosystems.
+Explain how blockchain technology ensures secure transactions.
+Describe the process of DNA replication and repair mechanisms.
+Explain the differences between classical and operant conditioning in psychology.
+Describe how black holes form and the effects they have on surrounding space.
+Explain the principles of thermodynamics and how they apply to real-world systems.
+Describe the process of water purification and treatment in municipal systems.
+Explain how the immune system identifies and responds to pathogens.
+Describe the process of RNA transcription and translation in cells.
+Explain the impact of deforestation on biodiversity and the carbon cycle.
+Describe how the human brain processes visual information.
+Explain the difference between chemical and physical changes with examples.
+Describe the process of economic inflation and its effects on markets.
+Explain the principles behind nuclear reactors and their safety mechanisms.
+Describe how GPS technology determines precise location.
+Explain the process of ocean acidification and its effects on marine life.
+Describe the steps involved in the formation of sedimentary rocks.
+Explain how artificial neural networks mimic brain function in machine learning.
+Describe the process of gene editing using CRISPR technology.
+Explain how vaccines trigger an immune response to provide protection.
+Describe the principles of aerodynamics in aircraft design.
+Explain the process of photosynthesis in C3, C4, and CAM plants.
+Describe the steps involved in carbon capture and storage technology.
+Explain the causes and effects of major historical pandemics.
+Describe the process of cell signaling and receptor activation.
+Explain how quantum entanglement challenges classical notions of physics.
+Describe the steps in the nitrogen cycle and its importance to ecosystems.
+Explain how data encryption protects privacy in internet communications.
+Describe the process of continental drift and plate tectonics.
+Explain the principles of hydraulic fracturing and its environmental impacts.
+Describe how proteins fold and why misfolding can lead to disease.
+Explain the causes and consequences of the Great Depression.
+Describe the process of meiosis and its role in sexual reproduction.
+Explain how solar panels convert sunlight into electrical energy.
+Describe the steps involved in the formation of galaxies.
+Explain the differences between renewable and non-renewable energy sources.
+Describe the mechanisms behind antibiotic resistance in bacteria.
+Explain the process of mitosis and how it ensures genetic fidelity.
+Describe the principles of relativity and time dilation in high-speed motion.
+Explain how electric circuits function and the role of different components.
+Describe the process of fermentation and its applications in industry.
+Explain the significance of the Higgs boson discovery in particle physics.
+Describe the mechanisms of climate feedback loops.
+Explain the steps in the formation of clouds and precipitation.
+Describe how artificial intelligence can be applied to natural language processing.
+Explain the differences between acids and bases in chemistry.
+Describe the process of volcanic eruption and the formation of igneous rocks.
+Explain how the endocrine system regulates body functions.
+Describe the principles of sound propagation and acoustics.
+Explain the process of semiconductor doping and its importance in electronics.
+Describe the steps involved in desalination of seawater for human use.
+Explain how quantum computing uses qubits to perform computations differently from classical computers.
+Describe the process of signal transduction in cellular communication.
+Explain how gravitational waves are generated and detected by observatories like LIGO.
+Describe the steps in the carbon cycle and its influence on global climate.
+Explain how superconductors work and their applications in technology.
+Describe the process of epigenetic modification and its impact on gene expression.
+Explain how deep learning models handle image recognition tasks.
+Describe the principles of orbital mechanics in satellite navigation.
+Explain how biochemical pathways regulate metabolism in cells.
+Describe the steps involved in atmospheric circulation and weather formation.
+Explain how thermonuclear weapons release energy through fusion.
+Describe the mechanisms of cellular respiration in mitochondria.
+Explain how gravitational lensing can be used to study distant galaxies.
+Describe the process of oceanic conveyor belt circulation and its climate effects.
+Explain the steps of RNA interference and gene silencing.
+Describe how CRISPR-Cas9 targets specific DNA sequences for editing.
+Explain the principles of magnetic resonance imaging (MRI) in medicine.
+Describe how exoplanets are detected using transit and radial velocity methods.
+Explain how photovoltaic cells convert sunlight into electricity.
+Describe the process of antigen presentation and T-cell activation in the immune system.
+Explain how blockchain achieves decentralization and consensus.
+Describe the formation and evolution of stars from nebulae to main sequence.
+Explain how neural oscillations influence cognitive function in the brain.
+Describe the process of ocean acidification due to CO₂ absorption.
+Explain the steps in the formation of sedimentary basins and their economic significance.
+Describe how gene regulatory networks control development in multicellular organisms.
+Explain the principles of quantum teleportation and its theoretical applications.
+Describe how tidal forces shape planetary bodies and ocean tides.
+Explain how enzyme kinetics determines reaction rates in biochemical processes.
+Describe the mechanisms of climate change adaptation in ecosystems.
+Explain how photoreceptors in the eye convert light into neural signals.
+Describe the process of nanoparticle synthesis and its industrial applications.
+Explain how aerodynamic lift is generated on airplane wings.
+Describe the principles of dark matter detection and its role in astrophysics.
+Explain how the lymphatic system supports immune function and fluid balance.
+Describe the process of genetic drift and its effects on populations over time.
+Explain how ion channels regulate electrical signaling in neurons.
+Describe the steps in the formation of igneous rocks from magma cooling.
+Explain how reinforcement learning allows AI agents to optimize behavior.
+Describe the mechanisms behind ozone layer depletion and its environmental impact.
+Explain how seismic waves are used to study the Earth’s interior.
+Describe the steps involved in antibody production in the adaptive immune system.
+Explain how superposition and entanglement enable quantum algorithms.
+Describe the process of bioaccumulation and its effects on food chains.
+Explain how heat exchangers transfer thermal energy in engineering systems.
+Describe the formation of planetary rings and their composition.
+Explain how CRISPR can be used to study gene function in model organisms.
+Describe the steps in the nitrogen fixation process by bacteria.
+Explain how aerodynamic drag affects vehicle fuel efficiency.
+Describe the process of protein folding and misfolding in disease.
+Explain how feedback loops maintain homeostasis in biological systems.
+Describe the principles of quantum tunneling and its applications.
+Explain how ocean currents influence regional climate patterns.
+Describe the steps involved in industrial-scale chemical synthesis.
+Explain how computer vision algorithms detect and classify objects in images.
+Describe the mechanisms of cellular apoptosis and its role in development.
+Explain how gravitational equilibrium shapes planets and stars.
+Describe the process of photosynthetic adaptation in extreme environments.
+Explain how piezoelectric materials convert mechanical stress into electrical energy.
+Describe the steps in the human coagulation cascade.
+Explain how magnetic levitation trains utilize superconductors and electromagnets.
+Describe the principles of fluid dynamics in blood circulation.
+Explain how high-energy particle colliders probe the fundamental constituents of matter.
+Describe the process of desalination using reverse osmosis and thermal distillation.
