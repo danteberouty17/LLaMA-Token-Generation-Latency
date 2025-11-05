@@ -59,7 +59,7 @@ Timestamp and other metadata
 5) Results are then saved for each individual prompt (3060_llama_batch_latency.csv) and for batches (3060_llama_batch_summary.csv) for consistent logging and debugging.
 
 ## Running the project
-1) Ensrue Ollama Desktop is running (or run *ollama serve* in CLI)
+1) Ensure Ollama Desktop is running (or run *ollama serve* in CLI)
 2) Open the Jupyter Notebook from command line:
 ```jupyter notebook benchmark_notebook.ipynb```
 3) Configuration of parameters can be done in cell 11 for MIXED PROMPTS (real-world) VS HOMOGENEOUS (only one type). This block:
