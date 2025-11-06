@@ -53,6 +53,7 @@ total_output_tokens
 batch_time
 avg_token_latency
 avg_throughput
+time_to_first_token_viewed
 GPU info: gpu_name, gpu_mem_used_MB, gpu_util_percent
 Timestamp and other metadata
 ```
